@@ -1,5 +1,5 @@
 # hometown_web
-this is my project for web design course in my college
+this is my project for web design course in my college.
 this project is only contains front-end file, without any server side programming language and this web project 
 is only a static web.
 
